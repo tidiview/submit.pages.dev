@@ -1,0 +1,19 @@
+{
+  "name": "cloudflare-statis-form-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20240405.0",
+    "typescript": "^5.4.4"
+  },
+  "dependencies": {
+    "@cloudflare/pages-plugin-static-forms": "^1.0.2"
+  }
+}
